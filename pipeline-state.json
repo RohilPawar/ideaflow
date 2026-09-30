@@ -1,0 +1,28 @@
+{
+  "cards": {
+    "6abc0cc1416d43d7254a9b40": {
+      "slug": "habit-tracker-that-texts-you-when-you-break-a-streak",
+      "name": "Habit tracker that texts you when you break a streak",
+      "state": "done",
+      "startedAt": "2026-09-29T19:15:51.460Z",
+      "mvpBuildingLabelId": "6abc0e6605ac7a215d91441e",
+      "prUrl": "https://github.com/RohilPawar/idea-mvps/pull/1",
+      "prNumber": 1,
+      "previewUrl": "https://RohilPawar.github.io/idea-mvps/habit-tracker-that-texts-you-when-you-break-a-streak/",
+      "prOpenedAt": "2026-09-29T19:18:19.148Z",
+      "doneAt": "2026-09-29T19:18:21.280Z"
+    },
+    "6abd40b0ece6d2d160338b5c": {
+      "slug": "create-a-dashboard-called-roomsplit-that-helps-apartment-com",
+      "name": "Create a dashboard called RoomSplit that helps apartment companies divide utility bills by bedroom and manage resident charges.",
+      "state": "done",
+      "startedAt": "2026-09-30T18:19:00.268Z",
+      "mvpBuildingLabelId": "6abc0e6605ac7a215d91441e",
+      "prUrl": "https://github.com/RohilPawar/idea-mvps/pull/2",
+      "prNumber": 2,
+      "previewUrl": "https://RohilPawar.github.io/idea-mvps/create-a-dashboard-called-roomsplit-that-helps-apartment-com/",
+      "prOpenedAt": "2026-09-30T18:21:26.057Z",
+      "doneAt": "2026-09-30T18:21:28.458Z"
+    }
+  }
+}

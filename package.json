@@ -1,0 +1,21 @@
+{
+  "name": "ideaflow",
+  "version": "0.1.0",
+  "description": "Agentic pipeline that turns Trello idea cards into live MVP prototypes",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "setup": "node setup.js",
+    "start": "node run.js",
+    "dry-run": "node run.js --dry-run",
+    "watch": "node watch.js",
+    "test-expand": "node test-expand.js",
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.54.0",
+    "dotenv": "^16.4.5"
+  }
+}

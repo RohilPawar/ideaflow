@@ -39,9 +39,14 @@
     "6b024348900c9dc0d6f56bce": {
       "slug": "audit-ready-scope-3-emissions-tracker-for-mid-market-compani",
       "name": "Audit-Ready Scope 3 Emissions Tracker for Mid-Market Companies",
-      "state": "building",
-      "startedAt": "2026-11-22T14:36:46.876Z",
-      "mvpBuildingLabelId": "6abc0e6605ac7a215d91441e"
+      "state": "done",
+      "startedAt": "2026-11-22T18:30:15.535Z",
+      "mvpBuildingLabelId": "6abc0e6605ac7a215d91441e",
+      "prUrl": "https://github.com/RohilPawar/idea-mvps/pull/5",
+      "prNumber": 5,
+      "previewUrl": "https://RohilPawar.github.io/idea-mvps/audit-ready-scope-3-emissions-tracker-for-mid-market-compani/",
+      "prOpenedAt": "2026-11-22T18:33:47.079Z",
+      "doneAt": "2026-11-22T18:33:49.018Z"
     }
   }
 }
